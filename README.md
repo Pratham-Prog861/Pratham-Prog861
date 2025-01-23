@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Darji</h1>
-<h3 align="center">🚀 Frontend & Backend Developer | MERN Stack Enthusiast | Tech Passionate 🤖</h3>
+<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Tech Passionate 🤖</h3>
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript , React.js , Next.js, Node.js , Express.js, MERN Stack (MongoDB, Express.js, React.js, Node.js) at a beginner to intermediate level , Currently learning AI to enhance my skills, Python .**
 
