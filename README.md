@@ -1,9 +1,16 @@
+![Me Coding](/image.png)
 <h1 align="center">Hi 👋, I'm Pratham Darji</h1>
-<h3 align="center">🚀 Frontend Developer | MERN Stack Enthusiast | Tech Passionate 🤖</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Enthusiast;Tech+Passionate" alt="Typing SVG" />
+</p>
+
 
 - 🌱 I’m currently learning **HTML , CSS , JavaScript , React.js , Next.js, Node.js , Express.js, MERN Stack (MongoDB, Express.js, React.js, Node.js) at a beginner to intermediate level , Currently learning AI to enhance my skills, Python .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratham-Prog861](https://github.com/Pratham-Prog861)
+
+- Portfolio (Desktop not Mobile Responsive) : [Portfolio](https://prathamdarji.netlify.app/)
 
 - 💬 Ask me about **tailwindcss , reactjs, js, python.**
 
